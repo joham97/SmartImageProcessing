@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartImageProcessing", "SmartImageProcessing\SmartImageProcessing.csproj", "{EC3C6953-42DE-4773-85AB-E4ABA18853F2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartImageProcessing.Tests", "SmartImageProcessing.Tests\SmartImageProcessing.Tests.csproj", "{1D80C217-3929-4FE8-ACFD-ED5016AD16D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC3C6953-42DE-4773-85AB-E4ABA18853F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC3C6953-42DE-4773-85AB-E4ABA18853F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC3C6953-42DE-4773-85AB-E4ABA18853F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC3C6953-42DE-4773-85AB-E4ABA18853F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D80C217-3929-4FE8-ACFD-ED5016AD16D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D80C217-3929-4FE8-ACFD-ED5016AD16D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D80C217-3929-4FE8-ACFD-ED5016AD16D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D80C217-3929-4FE8-ACFD-ED5016AD16D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {844FB0D4-C4AA-4F74-9AD4-2262C3CF13C4}
+	EndGlobalSection
+EndGlobal
